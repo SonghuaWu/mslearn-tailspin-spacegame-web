@@ -17,7 +17,7 @@ steps:
 
 - task: NodeTool@0
   inputs:
-    versionSpec: '16.x'
+    versionSpec: '12.13.1'
 
 - task: CmdLine@2
   inputs:
